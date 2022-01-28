@@ -1,5 +1,5 @@
 
-L'objectif du TP2 est de développer l'utilitaire `pat` qui surveille en parallèle les sorties standard et d'erreur de plusieurs commandes.
+L'objectif est de développer l'utilitaire `pat` qui surveille en parallèle les sorties standard et d'erreur de plusieurs commandes.
 
 ## Description
 
