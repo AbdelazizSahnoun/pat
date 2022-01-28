@@ -1,4 +1,3 @@
-# TP2 - pat patrouille à la rescousse
 
 L'objectif du TP2 est de développer l'utilitaire `pat` qui surveille en parallèle les sorties standard et d'erreur de plusieurs commandes.
 
